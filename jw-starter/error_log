@@ -1,0 +1,2 @@
+[23-May-2015 19:42:31 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/sprinha5/public_html/hudsontire/wp-content/themes/jw-starter/index.php on line 1
+[23-May-2015 19:53:40 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/sprinha5/public_html/hudsontire/wp-content/themes/jw-starter/index.php on line 1

@@ -1,0 +1,28 @@
+/* These are theme specific element styles */
+
+
+#top-nav{
+	background-color:#000000;	
+}
+
+.navbar-toggle {
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid;
+    border-radius: 4px;
+    float: right;
+    margin-bottom: 8px;
+    margin-right: 15px;
+    margin-top: 8px;
+    padding: 9px 10px;
+    position: relative;
+	color: #ffffff;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #ffffff;
+    border-radius: 1px;
+    display: block;
+    height: 2px;
+    width: 22px;
+}

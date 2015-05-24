@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* Theme specific color overrides */
+
+#top-nav{
+	background-color:#000000;	
+}
+
+.navbar-toggle {
+    background-color: transparent;
+    color: #ffffff;
+}
+
+
+.navbar-toggle .icon-bar {
+    background-color: #ffffff;
+}
+
