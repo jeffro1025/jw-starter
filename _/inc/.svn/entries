@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://github.com:443/jeffro1025/jw-starter.git/wp-content/themes/jw-starter/_/inc
+https://github.com:443/jeffro1025/jw-starter.git
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+b90ee559-8974-099d-2ab0-ce57b7db7bff
+
+wp_bootstrap_navwalker.php
+file
+
+
+
+add
+
+setups.php
+file
+
+
+
+add
+
+nav.php
+file
+
+
+
+add
+
+meta.php
+file
+
+
+
+add
+
