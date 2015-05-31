@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="header.php" server="ftp.myfiremedia.net" local="130774141627086128" remote="130774078200000000" Dst="2" />
+<file name="header.php" server="ftp.myfiremedia.net" local="130775049223059819" remote="130774977000000000" Dst="2" />
 <file name="comments.php" server="ftp.myfiremedia.net" local="129579080840000000" remote="130768717800000000" Dst="2" />
 <file name="index.php" server="ftp.myfiremedia.net" local="130768761330676569" remote="130768717800000000" Dst="2" />
 <file name="footer.php" server="ftp.myfiremedia.net" local="130768761235334965" remote="130768717800000000" Dst="2" />
-<file name="functions.php" server="ftp.myfiremedia.net" local="130769071374625744" remote="130768999200000000" Dst="2" />
+<file name="functions.php" server="ftp.myfiremedia.net" local="130775058329314530" remote="130774986000000000" Dst="2" />
 <file name="page.php" server="ftp.myfiremedia.net" local="130768762103139818" remote="130768717800000000" Dst="2" />
-<file name="screenshot.png" server="ftp.myfiremedia.net" local="129579080840000000" remote="130768717800000000" Dst="2" />
+<file name="screenshot.png" server="ftp.myfiremedia.net" local="130775052882458886" remote="130774980600000000" Dst="2" />
 <file name="sidebar.php" server="ftp.myfiremedia.net" local="129579080840000000" remote="130768717800000000" Dst="2" />
 <file name="SpecialTemplate.php" server="ftp.myfiremedia.net" local="130414523210000000" remote="130768717800000000" Dst="2" />
 <file name="style.css" server="ftp.myfiremedia.net" local="130768799202514079" remote="130768734000000000" Dst="2" />
 <file name="error_log" server="ftp.myfiremedia.net" local="130768987800000000" remote="130768987800000000" Dst="2" />
+<file name="comments.php" server="myfiremedia.net" local="129579080840000000" remote="130774838400000000" Dst="2" />
+<file name="error_log" server="myfiremedia.net" local="130768987800000000" remote="130774838400000000" Dst="2" />
+<file name="footer.php" server="myfiremedia.net" local="130768761235334965" remote="130774838400000000" Dst="2" />
+<file name="functions.php" server="myfiremedia.net" local="130769071374625744" remote="130774838400000000" Dst="2" />
+<file name="header.php" server="myfiremedia.net" local="130774141627086128" remote="130774838400000000" Dst="2" />
+<file name="index.php" server="myfiremedia.net" local="130768761330676569" remote="130774838400000000" Dst="2" />
+<file name="screenshot.png" server="myfiremedia.net" local="129579080840000000" remote="130774838400000000" Dst="2" />
+<file name="page.php" server="myfiremedia.net" local="130768762103139818" remote="130774838400000000" Dst="2" />
+<file name="README.md" server="myfiremedia.net" local="130774815586469113" remote="130774838400000000" Dst="2" />
+<file name="sidebar.php" server="myfiremedia.net" local="129579080840000000" remote="130774838400000000" Dst="2" />
+<file name="SpecialTemplate.php" server="myfiremedia.net" local="130414523210000000" remote="130774838400000000" Dst="2" />
+<file name="style.css" server="myfiremedia.net" local="130768799202514079" remote="130774838400000000" Dst="2" />
 </dwsync>

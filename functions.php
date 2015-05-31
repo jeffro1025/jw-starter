@@ -51,6 +51,7 @@ function load_styles()
 	
 	$theStyleSheets = array(
 		"bootstrap" => "bootstrap/css/bootstrap.css",
+		'font-awesome' => 'font-awesome/css/font-awesome.min.css',
 		'theme-styles' => 'css/theme-styles.css',
 		'theme-colors' => 'css/theme-colors.css'
 	
@@ -59,6 +60,32 @@ function load_styles()
 	
 	foreach($theStyleSheets as $x => $x_value){?>
     <link rel="stylesheet" href="<?php echo $basePath.$x_value ?>">
+	<?php
+		
+		
+		
+		
+			
+	}
+	
+	
+}
+
+function load_apple_touch_icons()
+{
+	$basePath = get_template_directory_uri()."/_/img/apple-icons/";
+	
+	$theIcons = array(
+		'76X76' => 'touch-icon-76X76.png',
+		'120X120' => 'touch-icon-120X120.png',
+		'152X152' => 'touch-icon-152X152.png',
+		'180X180' => 'touch-icon-180X180.png'
+	
+	);
+	
+	
+	foreach($theIcons as $x => $x_value){?>
+    <link rel="apple-touch-icon" sizes="<?php echo $x; ?>" href="<?php echo $basePath.$x_value ?>">
 	<?php
 		
 		
